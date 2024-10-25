@@ -19,3 +19,4 @@ feature 추가(버그수정)
 release 2.0
 -------------------------
 feture 1 추가
+feture 2 추가
