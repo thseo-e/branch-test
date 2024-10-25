@@ -24,6 +24,9 @@ feture 2 추가
 release 3.0
 -------------------------
 
-3.0 feature 추가
-3.0 feature2 추가
-3.0 feature3 추가
+4.0 feature 추가
+4.0 feature2 추가
+4.0 feature3 추가
+
+release 4.0
+------------------------
